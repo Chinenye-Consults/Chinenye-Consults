@@ -1,4 +1,4 @@
-Hi, 👋
+Hello, I'm Chinenye 👋
 
 About Me!
   
