@@ -34,11 +34,14 @@ Looking forward to collaborating with you!
 </table>
  
 ---
+<!-- Contact Section -->
 ## 📫 Let's Connect
 <p align="center">
- <a href="mailto:chinenyeobasi4u@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
- <a href="[https://www.linkedin.com/in/chinenye-obasi/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
+ <a href="mailto:chinenyeobasi4u@gmail.com?subject=Hello Chinenye!"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+ <a href="https://www.linkedin.com/in/chinenye-obasi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
 </p>
+
+---
 
 
 ## 📊 GitHub Stats:
