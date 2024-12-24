@@ -5,7 +5,7 @@
 
 <!-- About Me Section -->
 ## 👩‍💻 **About Me**
-Hi, I'm @Chinenye-Consults🖐
+Hi, I'm @Chinenye-Consults 👋
 
 I’m a passionate Cloud/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management. I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
 
