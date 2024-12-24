@@ -1,7 +1,8 @@
-Hello, I'm Chinenye 👋
+<!-- Header Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello!+I'm+Chinenye Obasi;Cloud Security+%26+DevOps+Engineer" alt="Typing SVG" />
+</p>
 
-About Me!
-  
 I’m a passionate Cloud/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management. I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
 
 What I Can Do for You?
