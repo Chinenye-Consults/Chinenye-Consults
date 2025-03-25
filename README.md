@@ -7,20 +7,23 @@
 ## 👩‍💻 **About Me**
 Hi, I'm @Chinenye-Consults
 
-I’m a passionate Cloud/DevOps Engineer with extensive experience in cloud computing, automation, and infrastructure management. I thrive on the limitless opportunities that cloud technology offers and am dedicated to driving innovation, efficiency, and scalability for organizations through tailored cloud solutions and automation frameworks.
+I’m a passionate Cloud Security and DevOps Engineer with a strong focus on designing, securing, and automating cloud environments. My expertise lies at the intersection of cloud infrastructure, security compliance, and DevSecOps, ensuring organizations can scale with confidence while maintaining security, efficiency, and regulatory compliance. I thrive on the endless possibilities of cloud technology and am committed to driving innovation, resilience, and automation through tailored cloud solutions and security-driven DevOps practices.
 
 What I Can Do for You?
 
-Optimize Cloud Infrastructure: Design scalable, secure, and cost-efficient cloud environments that align with your unique needs.
-Automate Processes: Build and implement robust automation pipelines to minimize manual tasks, reduce errors, and accelerate deployment timelines.
-Enhance Security: Apply industry best practices to protect your systems, ensuring compliance and safeguarding your data.
-Improve System Reliability: Proactively monitor and resolve potential issues to maximize uptime, maintain high performance, and ensure seamless operations.
+Secure Cloud Architectures: I design and implement secure, reliable, scalable, and compliant cloud infrastructures across Azure, AWS, and GCP, ensuring they meet industry standards such as HIPAA, PCI-DSS, and many more.
+
+Infrastructure as Code & Automation: Utilizing Terraform, Ansible, and CI/CD pipelines, I automate deployments, enforce security policies, and eliminate manual errors for consistent, repeatable infrastructure provisioning.
+
+DevSecOps Implementation: I integrate security best practices into software development and deployment lifecycles, embedding proactive threat detection, vulnerability scanning, and compliance auditing into CI/CD workflows to protect your data.
+
+Risk Mitigation & Compliance: Proactively monitor and analyze cloud environments through comprehensive logging and real-time monitoring to identify and resolve potential issues, ensuring maximum uptime, optimal performance, and seamless operations. Implement and enforce identity and access management (IAM), encryption, and network segmentation while ensuring strict adherence to security and compliance frameworks.
 
 Let’s Collaborate!
 
-Are you ready to take your cloud and DevOps initiatives to the next level? Let’s connect and discuss how I can help you achieve your goals. Reach out to me via LinkedIn or email, let’s build something incredible together.
+I’m always open to collaborating with like-minded professionals, tackling security challenges, and driving innovation in cloud security and automation. If you’re looking to fortify your cloud infrastructure while enhancing agility, reach out to me via LinkedIn or email let’s connect and build something incredible together!
 
-Looking forward to collaborating with you!
+Looking forward to securing, optimizing, and scaling cloud environments with you, one deployment at a time!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinenye-obasi)
